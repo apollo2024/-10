@@ -1,0 +1,15 @@
+E:\Koko\projects-2\задача_2\bin\Debug\net7.0\задача_2.exe
+E:\Koko\projects-2\задача_2\bin\Debug\net7.0\задача_2.deps.json
+E:\Koko\projects-2\задача_2\bin\Debug\net7.0\задача_2.runtimeconfig.json
+E:\Koko\projects-2\задача_2\bin\Debug\net7.0\задача_2.dll
+E:\Koko\projects-2\задача_2\bin\Debug\net7.0\задача_2.pdb
+E:\Koko\projects-2\задача_2\obj\Debug\net7.0\задача_2.csproj.AssemblyReference.cache
+E:\Koko\projects-2\задача_2\obj\Debug\net7.0\задача_2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Koko\projects-2\задача_2\obj\Debug\net7.0\задача_2.AssemblyInfoInputs.cache
+E:\Koko\projects-2\задача_2\obj\Debug\net7.0\задача_2.AssemblyInfo.cs
+E:\Koko\projects-2\задача_2\obj\Debug\net7.0\задача_2.csproj.CoreCompileInputs.cache
+E:\Koko\projects-2\задача_2\obj\Debug\net7.0\задача_2.dll
+E:\Koko\projects-2\задача_2\obj\Debug\net7.0\refint\задача_2.dll
+E:\Koko\projects-2\задача_2\obj\Debug\net7.0\задача_2.pdb
+E:\Koko\projects-2\задача_2\obj\Debug\net7.0\задача_2.genruntimeconfig.cache
+E:\Koko\projects-2\задача_2\obj\Debug\net7.0\ref\задача_2.dll
